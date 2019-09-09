@@ -1,0 +1,15 @@
+.box1 {
+    padding: 0px 0px 20px 0px;
+    margin-top: 20px;
+}
+.white {
+    color: #FFF;
+    padding-top: 0px !important;
+    padding-bottom: 10px !important;
+    background-color: #337ab7 !important;
+}
+
+.logout {
+    padding: 6px 0px 0px 0px;
+    float: left;
+}
